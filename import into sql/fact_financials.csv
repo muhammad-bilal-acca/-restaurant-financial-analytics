@@ -1,0 +1,213 @@
+Line Item,Company,Year,Value
+Total Revenue,Darden ,(FY25),12076700
+Total Revenue,Cracker Barrel ,(FY25),3483684
+Total Revenue,Cheesecake Factory ,(FY24),3581699
+Total Revenue,Denny's ,(FY24),452334
+Total Revenue,Darden ,(FY24),11390000
+Total Revenue,Cracker Barrel ,(FY24),3470762
+Total Revenue,Cheesecake Factory ,(FY23),3439503
+Total Revenue,Denny's ,(FY23),463922
+Total Revenue,Darden ,(FY23),10487800
+Total Revenue,Cracker Barrel ,(FY23),3442808
+Total Revenue,Cheesecake Factory ,(FY22),3303156
+Total Revenue,Denny's ,(FY22),456429
+Cost of sales/Food & Bev,Darden ,(FY25),3657000
+Cost of sales/Food & Bev,Cracker Barrel ,(FY25),1081029
+Cost of sales/Food & Bev,Cheesecake Factory ,(FY24),806021
+Cost of sales/Food & Bev,Denny's ,(FY24),53931
+Cost of sales/Food & Bev,Darden ,(FY24),3523900
+Cost of sales/Food & Bev,Cracker Barrel ,(FY24),1087631
+Cost of sales/Food & Bev,Cheesecake Factory ,(FY23),803500
+Cost of sales/Food & Bev,Denny's ,(FY23),55789
+Cost of sales/Food & Bev,Darden ,(FY23),3355900
+Cost of sales/Food & Bev,Cracker Barrel ,(FY23),1127617
+Cost of sales/Food & Bev,Cheesecake Factory ,(FY22),810926
+Cost of sales/Food & Bev,Denny's ,(FY22),53617
+Labour Costs ,Darden ,(FY25),3833100
+Labour Costs ,Cracker Barrel ,(FY25),1254668
+Labour Costs ,Cheesecake Factory ,(FY24),1264382
+Labour Costs ,Denny's ,(FY24),80605
+Labour Costs ,Darden ,(FY24),3619300
+Labour Costs ,Cracker Barrel ,(FY24),1271555
+Labour Costs ,Cheesecake Factory ,(FY23),1227895
+Labour Costs ,Denny's ,(FY23),80666
+Labour Costs ,Darden ,(FY23),3346300
+Labour Costs ,Cracker Barrel ,(FY23),1208669
+Labour Costs ,Cheesecake Factory ,(FY22),1211951
+Labour Costs ,Denny's ,(FY22),76412
+Other Operating Expenses,Darden ,(FY25),2659000
+Other Operating Expenses,Cracker Barrel ,(FY25),1072899
+Other Operating Expenses,Cheesecake Factory ,(FY24),1187958
+Other Operating Expenses,Denny's ,(FY24),37079
+Other Operating Expenses,Darden ,(FY24),1981100
+Other Operating Expenses,Cracker Barrel ,(FY24),831763
+Other Operating Expenses,Cheesecake Factory ,(FY23),922428
+Other Operating Expenses,Denny's ,(FY23),34335
+Other Operating Expenses,Darden ,(FY23),311800
+Other Operating Expenses,Cracker Barrel ,(FY23),797815
+Other Operating Expenses,Cheesecake Factory ,(FY22),881627
+Other Operating Expenses,Denny's ,(FY22),34275
+Depreciation & Amortization,Darden ,(FY25),516100
+Depreciation & Amortization,Cracker Barrel ,(FY25),20059
+Depreciation & Amortization,Cheesecake Factory ,(FY24),101450
+Depreciation & Amortization,Denny's ,(FY24),14857
+Depreciation & Amortization,Darden ,(FY24),459900
+Depreciation & Amortization,Cracker Barrel ,(FY24),22942
+Depreciation & Amortization,Cheesecake Factory ,(FY23),93136
+Depreciation & Amortization,Denny's ,(FY23),14385
+Depreciation & Amortization,Darden ,(FY23),387800
+Depreciation & Amortization,Cracker Barrel ,(FY23),13999
+Depreciation & Amortization,Cheesecake Factory ,(FY22),92380
+Depreciation & Amortization,Denny's ,(FY22),14862
+Operating Income,Darden ,(FY25),1362300
+Operating Income,Cracker Barrel ,(FY25),55029
+Operating Income,Cheesecake Factory ,(FY24),178317
+Operating Income,Denny's ,(FY24),45316
+Operating Income,Darden ,(FY24),1314200
+Operating Income,Cracker Barrel ,(FY24),45119
+Operating Income,Cheesecake Factory ,(FY23),108566
+Operating Income,Denny's ,(FY23),52823
+Operating Income,Darden ,(FY23),1201800
+Operating Income,Cracker Barrel ,(FY23),120617
+Operating Income,Cheesecake Factory ,(FY22),38935
+Operating Income,Denny's ,(FY22),60614
+Net Income,Darden ,(FY25),1049600
+Net Income,Cracker Barrel ,(FY25),46379
+Net Income,Cheesecake Factory ,(FY24),156783
+Net Income,Denny's ,(FY24),21571
+Net Income,Darden ,(FY24),1027600
+Net Income,Cracker Barrel ,(FY24),40930
+Net Income,Cheesecake Factory ,(FY23),101351
+Net Income,Denny's ,(FY23),19945
+Net Income,Darden ,(FY23),983500
+Net Income,Cracker Barrel ,(FY23),99050
+Net Income,Cheesecake Factory ,(FY22),43123
+Net Income,Denny's ,(FY22),74712
+Diluted EPS,Darden ,(FY25),8.86
+Diluted EPS,Cracker Barrel ,(FY25),2.06
+Diluted EPS,Cheesecake Factory ,(FY24),3.2
+Diluted EPS,Denny's ,(FY24),0.41
+Diluted EPS,Darden ,(FY24),8.51
+Diluted EPS,Cracker Barrel ,(FY24),1.83
+Diluted EPS,Cheesecake Factory ,(FY23),2.07
+Diluted EPS,Denny's ,(FY23),0.35
+Diluted EPS,Darden ,(FY23),7.99
+Diluted EPS,Cracker Barrel ,(FY23),4.45
+Diluted EPS,Cheesecake Factory ,(FY22),0.86
+Diluted EPS,Denny's ,(FY22),1.23
+Cash and Equivalents,Darden ,(FY25),240000
+Cash and Equivalents,Cracker Barrel ,(FY25),39643
+Cash and Equivalents,Cheesecake Factory ,(FY24),84176
+Cash and Equivalents,Denny's ,(FY24),1698
+Cash and Equivalents,Darden ,(FY24),194800
+Cash and Equivalents,Cracker Barrel ,(FY24),12035
+Cash and Equivalents,Cheesecake Factory ,(FY23),56290
+Cash and Equivalents,Denny's ,(FY23),4893
+Total current assets ,Darden ,(FY25),937700
+Total current assets ,Cracker Barrel ,(FY25),313112
+Total current assets ,Cheesecake Factory ,(FY24),333313
+Total current assets ,Denny's ,(FY24),39993
+Total current assets ,Darden ,(FY24),822800
+Total current assets ,Cracker Barrel ,(FY24),278214
+Total current assets ,Cheesecake Factory ,(FY23),300789
+Total current assets ,Denny's ,(FY23),44050
+Total assets ,Darden ,(FY25),12587000
+Total assets ,Cracker Barrel ,(FY25),2161884
+Total assets ,Cheesecake Factory ,(FY24),3041760
+Total assets ,Denny's ,(FY24),496274
+Total assets ,Darden ,(FY24),11323000
+Total assets ,Cracker Barrel ,(FY24),2161494
+Total assets ,Cheesecake Factory ,(FY23),2840383
+Total assets ,Denny's ,(FY23),464818
+Total current liabilities,Darden ,(FY25),2247500
+Total current liabilities,Cracker Barrel ,(FY25),625603
+Total current liabilities,Cheesecake Factory ,(FY24),711420
+Total current liabilities,Denny's ,(FY24),95598
+Total current liabilities,Darden ,(FY24),2192500
+Total current liabilities,Cracker Barrel ,(FY24),454207
+Total current liabilities,Cheesecake Factory ,(FY23),660671
+Total current liabilities,Denny's ,(FY23),103300
+Total libilities,Darden ,(FY25),10275700
+Total libilities,Cracker Barrel ,(FY25),1700195
+Total libilities,Cheesecake Factory ,(FY24),2598305
+Total libilities,Denny's ,(FY24),530299
+Total libilities,Darden ,(FY24),9080500
+Total libilities,Cracker Barrel ,(FY24),1267142
+Total libilities,Cheesecake Factory ,(FY23),2522321
+Total libilities,Denny's ,(FY23),527504
+Total stakeholders' Equity,Darden ,(FY25),2311300
+Total stakeholders' Equity,Cracker Barrel ,(FY25),923378
+Total stakeholders' Equity,Cheesecake Factory ,(FY24),443455
+Total stakeholders' Equity,Denny's ,(FY24),-34025
+Total stakeholders' Equity,Darden ,(FY24),2242500
+Total stakeholders' Equity,Cracker Barrel ,(FY24),440149
+Total stakeholders' Equity,Cheesecake Factory ,(FY23),318062
+Total stakeholders' Equity,Denny's ,(FY23),-62686
+Inventories,Darden ,(FY25),311600
+Inventories,Cracker Barrel ,(FY25),180585
+Inventories,Cheesecake Factory ,(FY24),64526
+Inventories,Denny's ,(FY24),1747
+Inventories,Darden ,(FY24),290500
+Inventories,Cracker Barrel ,(FY24),180958
+Inventories,Cheesecake Factory ,(FY23),57654
+Inventories,Denny's ,(FY23),2175
+Net Cash - Operating,Darden ,(FY25),1707000
+Net Cash - Operating,Cracker Barrel ,(FY25),218899
+Net Cash - Operating,Cheesecake Factory ,(FY24),268325
+Net Cash - Operating,Denny's ,(FY24),29487
+Net Cash - Operating,Darden ,(FY24),1621700
+Net Cash - Operating,Cracker Barrel ,(FY24),168980
+Net Cash - Operating,Cheesecake Factory ,(FY23),218401
+Net Cash - Operating,Denny's ,(FY23),72125
+Net Cash - Operating,Darden ,(FY23),1552800
+Net Cash - Operating,Cracker Barrel ,(FY23),250457
+Net Cash - Operating,Cheesecake Factory ,(FY22),161926
+Net Cash - Operating,Denny's ,(FY22),39452
+Net Cash - Investing,Darden ,(FY25),-1278300
+Net Cash - Investing,Cracker Barrel ,(FY25),-156702
+Net Cash - Investing,Cheesecake Factory ,(FY24),-161097
+Net Cash - Investing,Denny's ,(FY24),-26673
+Net Cash - Investing,Darden ,(FY24),-1324600
+Net Cash - Investing,Cracker Barrel ,(FY24),-124327
+Net Cash - Investing,Cheesecake Factory ,(FY23),-153497
+Net Cash - Investing,Denny's ,(FY23),-7564
+Net Cash - Investing,Darden ,(FY23),-568400
+Net Cash - Investing,Cracker Barrel ,(FY23),-124319
+Net Cash - Investing,Cheesecake Factory ,(FY22),-112815
+Net Cash - Investing,Denny's ,(FY22),-86596
+Net Cash - Financing,Darden ,(FY25),-385800
+Net Cash - Financing,Cracker Barrel ,(FY25),-34589
+Net Cash - Financing,Cheesecake Factory ,(FY24),-78794
+Net Cash - Financing,Denny's ,(FY24),-6009
+Net Cash - Financing,Darden ,(FY24),-483400
+Net Cash - Financing,Cracker Barrel ,(FY24),-57765
+Net Cash - Financing,Cheesecake Factory ,(FY23),-123535
+Net Cash - Financing,Denny's ,(FY23),-63191
+Net Cash - Financing,Darden ,(FY23),-1033100
+Net Cash - Financing,Cracker Barrel ,(FY23),-146096
+Net Cash - Financing,Cheesecake Factory ,(FY22),-123636
+Net Cash - Financing,Denny's ,(FY22),20043
+Capital Expenditure,Darden ,(FY25),-1285600
+Capital Expenditure,Cracker Barrel ,(FY25),-159144
+Capital Expenditure,Cheesecake Factory ,(FY24),-161418
+Capital Expenditure,Denny's ,(FY24),-30399
+Capital Expenditure,Darden ,(FY24),-1329400
+Capital Expenditure,Cracker Barrel ,(FY24),-128295
+Capital Expenditure,Cheesecake Factory ,(FY23),-153497
+Capital Expenditure,Denny's ,(FY23),-13198
+Capital Expenditure,Darden ,(FY23),-594300
+Capital Expenditure,Cracker Barrel ,(FY23),-126987
+Capital Expenditure,Cheesecake Factory ,(FY22),-113144
+Capital Expenditure,Denny's ,(FY22),-96310
+Net Change in Cash,Darden ,(FY25),34400
+Net Change in Cash,Cracker Barrel ,(FY25),27608
+Net Change in Cash,Cheesecake Factory ,(FY24),27886
+Net Change in Cash,Denny's ,(FY24),-3195
+Net Change in Cash,Darden ,(FY24),-196100
+Net Change in Cash,Cracker Barrel ,(FY24),-13112
+Net Change in Cash,Cheesecake Factory ,(FY23),-58487
+Net Change in Cash,Denny's ,(FY23),1370
+Net Change in Cash,Darden ,(FY23),-55900
+Net Change in Cash,Cracker Barrel ,(FY23),-19958
+Net Change in Cash,Cheesecake Factory ,(FY22),-74850
+Net Change in Cash,Denny's ,(FY22),-27101

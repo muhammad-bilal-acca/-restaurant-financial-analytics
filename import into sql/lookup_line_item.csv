@@ -1,0 +1,21 @@
+line_item_id,line_item_name,category
+1,Total Revenue,income sheet  
+2,Cost of sales/Food & Bev,income sheet  
+3,Labour Costs ,income sheet  
+4,Other Operating Expenses,income sheet  
+5,Depreciation & Amortization,income sheet  
+6,Operating Income,income sheet  
+7,Net Income,income sheet  
+8,Diluted EPS,income sheet  
+9,Cash and Equivalents,balance sheet
+10,Total current assets ,balance sheet
+11,Total assets ,balance sheet
+12,Total current liabilities,balance sheet
+13,Total libilities,balance sheet
+14,Total stakeholders' Equity,balance sheet
+15,Inventories,balance sheet
+16,Net Cash - Operating,cash flow sheet
+17,Net Cash - Investing,cash flow sheet
+18,Net Cash - Financing,cash flow sheet
+19,Capital Expenditure,cash flow sheet
+20,Net Change in Cash,cash flow sheet
